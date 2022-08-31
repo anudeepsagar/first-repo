@@ -1,5 +1,9 @@
-line Every 
+line Every(change on line 1) 
 line Good 
+<<<<<<< HEAD
 line Boy (change on line3)
+=======
+line Boy(change on line 3) 
+>>>>>>> alternative
 line Deserves 
 line Favor (change on line5)
